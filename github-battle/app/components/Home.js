@@ -10,7 +10,7 @@ var Home = React.createClass({
         return (
             <MainContainer>
                 <h1>Github Battle</h1>
-                <p className="lead">Some</p>
+                <p className="lead">Test Github Users' Might</p>
                 <Link to="/playerOne">
                     <button type="Button" className="btn btn-lg btn-success">Get Started</button>    
                 </Link>
