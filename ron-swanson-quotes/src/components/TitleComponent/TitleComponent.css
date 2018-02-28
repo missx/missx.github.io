@@ -1,0 +1,10 @@
+.TitleComponent {
+    height: 100%;
+}
+
+.TitleComponent-title {
+    vertical-align: middle;
+    padding: 5% 0;
+    font-family: 'Berkshire Swash', cursive;
+    font-size: 4.5rem;
+}
